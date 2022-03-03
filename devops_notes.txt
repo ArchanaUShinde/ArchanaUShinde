@@ -1,0 +1,52 @@
+jayendra patil for aws exam
+
+what is your role?
+Having jenkings CI setup and making sure it is always working.
+Try to find manual activities and automate it.
+Managing production systems,actively monitoring tickets ,alerts or mails for any retart server etc.
+setting up chef automation across the team
+interation with developers and testers for any new changes.
+
+What are day to day activities?
+writing chef cookbooks or updation exixting ,testing them and apply to prod,
+Writed 3-4 cookbook,installed chef ,created role and fixed chef clients which are failling 
+created jenkins jobs.
+docker insatlled
+
+What is your project?
+ In my project IT 20 to 25 custom applications they are currently running on our own dadaceter.Process of creating cloud ,we have small test and dev
+ environment on cloud. (VPC,EC2,RDS)
+
+how to vertical or horizontal scale up?
+
+working on lamba,updating cloud formation template,adding additional servers,adding sqs
+
+how jenkings works,docker,maven
+
+coderpad for shell scripting
+
+why CI?,DEvops,CD?
+
+Advantages of devops over Agile
+
+Linux : find ,awk,sed,uniq,cut,wc,sort,grep
+
+Are you worked on chef?
+Yes, I worked on chef(can say ansible), installed chef,I have done initial setup then configuration, using starter kick,I have work stations on windows,
+ have multiple cookbooks 
+(sane about docker)is docker is your enviroment:yes 2 applications tranformed into docker based application.
+
+What is mocro services and advantages ove SOA
+
+what is SSL
+
+measurig devops success ?
+we can see
+1.Bussiness success(eg.no people increasing)
+2.customer experiance(user growth rate ,customer satiafaction,amount of time spend on app)
+3.Application performance(database query time,resirce utilization,uptime availability
+4.Speed(0 hoe fast resolving issues 
+5.Quality(deployment sucess rate,app error rates 
+
+
+migrating db from onprises to cloud (check)
